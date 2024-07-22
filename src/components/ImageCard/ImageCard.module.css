@@ -4,7 +4,7 @@
 }
 
 .image {
-  width: 100%;
-  height: 260px;
-  object-fit: cover;
+  width: 350px;
+  height: 250px;
+  overflow: hidden;
 }
